@@ -13,8 +13,11 @@ npm install
 npm run dev
 ```
 ![主页](https://ws1.sinaimg.cn/large/006tKfTcgy1flhtezdoxmj30af0ijdgo.jpg)
+
 ![购物车](https://ws1.sinaimg.cn/large/006tKfTcgy1flhtepk432j30ah0ig3zm.jpg)
+
 ![分类](https://ws4.sinaimg.cn/large/006tKfTcgy1flhtewrqt2j30ak0ik0tz.jpg)
+
 ![商品详情](https://ws3.sinaimg.cn/large/006tKfTcgy1flhtfifqyaj30ah0ijwf4.jpg)
 
 1. 使用webpack构建的vue多页面应用
