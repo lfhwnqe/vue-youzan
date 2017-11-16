@@ -1,6 +1,8 @@
 # youzan
 vue重构有赞商城
 
+[预览地址](http://www.91dcj.cn)
+
 预览项目需要先安装node
 
 项目安装
